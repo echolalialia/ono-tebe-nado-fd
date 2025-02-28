@@ -1,1 +1,1 @@
-https://github.com/echolalialia/ono-tebe-nado
+https://github.com/echolalialia/ono-tebe-nado-fd
